@@ -1,0 +1,1 @@
+<h1 align="center">Netflix Clone MERN Stack 🎬</h1>
